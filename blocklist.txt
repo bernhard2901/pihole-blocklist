@@ -3,6 +3,6 @@ tracking.example.org
 analytics.example.net
 telemetry.example.io
 clickbait.example.de
-big7.com
+big7.*
 pornhub.org
 pornhub.*
