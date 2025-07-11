@@ -5,3 +5,4 @@ telemetry.example.io
 clickbait.example.de
 big7.com
 pornhub.org
+pornhub.*
