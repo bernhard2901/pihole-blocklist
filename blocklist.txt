@@ -1,0 +1,5 @@
+ads.example.com
+tracking.example.org
+analytics.example.net
+telemetry.example.io
+clickbait.example.de
