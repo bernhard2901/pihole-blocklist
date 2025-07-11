@@ -3,5 +3,5 @@ tracking.example.org
 analytics.example.net
 telemetry.example.io
 clickbait.example.de
-https://www.big7.com/
-https://de.pornhub.org/
+big7.com/
+pornhub.org/
